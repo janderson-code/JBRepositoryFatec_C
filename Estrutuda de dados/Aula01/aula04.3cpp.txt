@@ -1,0 +1,9 @@
+#include <iostream> // funções cout e cin
+#include <locale.h> // Idioma Portugues
+#include <stdlib.h>
+#include <string>
+#include <stdio.h>
+#include <iomanip>// casas decimais
+
+using namespace std;
+
